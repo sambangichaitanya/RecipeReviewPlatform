@@ -1,0 +1,27 @@
+
+.top{
+  display: flex;
+  flex-direction: column;
+}
+
+.vip{
+  position: fixed;
+  width:100%;
+  margin-top: 0;
+  background-color: antiquewhite;
+  z-index: 1;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.bottom{
+  position: absolute;
+    margin-top: 200px;
+}
+
+#myInput{
+  padding:15px;
+  margin:15px;
+}
